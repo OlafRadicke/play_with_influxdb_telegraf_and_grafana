@@ -1,4 +1,4 @@
-# playing arond withe influxdb telegraf and grafana #
+# play arond withe influxdb telegraf and grafana #
 
 Here I playing around withe influxdb telegraf and grafana.
 
